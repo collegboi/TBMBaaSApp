@@ -1,0 +1,6 @@
+framework module Pods_TBMBaaSAppTests {
+  umbrella header "Pods-TBMBaaSAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
